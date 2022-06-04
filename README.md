@@ -3,65 +3,65 @@
 ## CIT 281
 ### Lab 01
 Learning how to use programs and shortcuts
-- [https://alexhart5.github.io/cit281-lab01/]
+- [https://alexhart5.github.io/cit281-lab01/](url)
 
 ### Lab 02
 Learning GIT Repos and branches
-- [https://alexhart5.github.io/cit281-lab02/]
+- [https://alexhart5.github.io/cit281-lab02/](url)
 
 ### Lab 03
 Practice using modern Javascript
- - [Link](https://alexhart5.github.io/cit281-lab03/)
+ - [https://alexhart5.github.io/cit281-lab03/](url)
  
 ### Lab 04
 Using fastify to create a basic server
-- [Link](https://alexhart5.github.io/cit281-lab04/)
+- [https://alexhart5.github.io/cit281-lab04/](url)
 
 ### Lab 05
 Using Postman and JSON to handle web servers
-- [Link](https://alexhart5.github.io/cit281-lab05/)
+- [https://alexhart5.github.io/cit281-lab05/](url)
 
 ### Lab 06
 Learning how to use classes
-- [Link](https://alexhart5.github.io/cit281-lab06/)
+- [https://alexhart5.github.io/cit281-lab06/](url)
 
 ### Lab 07
 Starting to use GITHUB
-- [Link](https://alexhart5.github.io/cit281-lab07/)
+- [https://alexhart5.github.io/cit281-lab07/](url)
 
 ### Lab 08
 Using node-fetch
-- [Link](https://alexhart5.github.io/cit281-lab08/)
+- [https://alexhart5.github.io/cit281-lab08/](url)
 
 ### Lab 09
 Learning release based workflow
-- [Link](https://alexhart5.github.io/cit281-lab09/)
+- [https://alexhart5.github.io/cit281-lab09/](url)
 
 ### Project 1
 Learning CLI and VSCode
-- [Link](https://alexhart5.github.io/cit281-p1/)
+- [https://alexhart5.github.io/cit281-p1/](url)
 
 ### Project 2
 Learning CLI and refractoring Javascript
-- [Link](https://alexhart5.github.io/cit281-p2/)
+- [https://alexhart5.github.io/cit281-p2/](url)
 
 ### Project 3
 Using modern javascript and fastifyy
-- [Link](https://alexhart5.github.io/cit281-p3/)
+- [https://alexhart5.github.io/cit281-p3/](url)
 
 ### Project 4
 Javascipt and REST API using Postman
-- [Link](https://alexhart5.github.io/cit281-p4/)
+- [https://alexhart5.github.io/cit281-p4/](url)
 
 ### Project 5
 Extra Credit Project using classes
-- [Link](https://alexhart5.github.io/cit281-p5/)
+- [https://alexhart5.github.io/cit281-p5/](url)
 
 ### Project 6
 Using Classes to code
-- [Link](https://alexhart5.github.io/cit281-p6/)
+- [https://alexhart5.github.io/cit281-p6/](url)
 
 ### Project 7
 Setting up GITHUB pages
-- [Link](https://alexhart5.github.io/cit281-p7/)
+- [https://alexhart5.github.io/cit281-p7/](url)
 
