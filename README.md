@@ -3,11 +3,11 @@
 ## CIT 281
 ### Lab 01
 Learning how to use programs and shortcuts
-- [Link](https://alexhart5.github.io/cit281-lab01/)
+- [https://alexhart5.github.io/cit281-lab01/]
 
 ### Lab 02
 Learning GIT Repos and branches
-- [Link](https://alexhart5.github.io/cit281-lab02/)
+- [https://alexhart5.github.io/cit281-lab02/]
 
 ### Lab 03
 Practice using modern Javascript
